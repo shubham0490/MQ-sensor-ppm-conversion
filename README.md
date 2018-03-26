@@ -14,7 +14,9 @@ Just install the libraries told on this <a href="https://learn.adafruit.com/rasp
 If working with MCP3008, please install the Adafruit library told on this <a href="https://learn.adafruit.com/raspberry-pi-analog-to-digital-converters/mcp3008" target="_blank">tutorial</a>
 
 # Demo Videos
-I have tested this with bot MCP3008 and MCP3208
+I have tested this with both MCP3008 and MCP3208
+
+Used cigarette lighter for see the reading variation
 
 Part 1 <a href="https://vimeo.com/260562529">https://vimeo.com/260562529</a>
 
